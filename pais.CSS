@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+
+}
+
+h1{
+    font-size: 2em;
+    color: green;
+}
+
+h2{
+    color: red;
+    
+}
+.topico2{
+    text-align: center;
+}
+.paragrafo1{
+    color: black;
+}
+.paragrafo2{
+    text-align: justify;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    font-size: 20px;
+}

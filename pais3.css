@@ -1,0 +1,23 @@
+body{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 14px;
+    }
+
+    h1{
+        color: green;
+    }
+    h2{
+        color:red;
+    }
+    
+    h3{
+        color:rgba(182, 182, 4, 0.856);
+    }
+
+    h4{
+        text-align: center;
+    }
+
+    h5{
+        font-size: 20px;
+    }
